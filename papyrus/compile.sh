@@ -1,0 +1,2 @@
+#!/bin/bash
+PapyrusCompiler.exe "creativity.psc" -i="D:\Games\Fallout 4\Data\Scripts\Source\Base" -o="D:\Games\Fallout 4\Data\Scripts" -f="D:\Games\Fallout 4\Data\Scripts\Source\Base\Institute_Papyrus_Flags.flg" -q

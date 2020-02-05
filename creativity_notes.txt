@@ -1,0 +1,14 @@
+Skills:
+- convey a message
+- dialog realates to the context (game data, discourse memory, emotion)
+- co-operative: titles descriptive, relate to the game
+
+Appreciation
+- how well the generated dialog conveys the abstract meaning
+- not repetitive
+- words express the sentiment of the characters
+- inter-appreciation of the two talking agents
+- the most suitable topic
+
+Imaginativeness
+- H-creative, P-creative
