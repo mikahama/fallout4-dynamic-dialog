@@ -40,3 +40,10 @@
 
 # How to use
 - run `sh start_flask.sh`
+
+# Cite
+Mika Hämäläinen and Khalid Alnajjar. 2019. [Creative contextual dialog adaptation in an open world RPG](https://dl.acm.org/doi/10.1145/3337722.3341865). In Proceedings of the 14th International Conference on the Foundations of Digital Games (FDG ’19). Association for Computing Machinery, New York, NY, USA, Article 73, 1–7. DOI:https://doi.org/10.1145/3337722.3341865
+
+Khalid Alnajjar and Mika Hämäläinen. 2019. [A creative dialog generator for fallout 4](https://doi.org/10.1145/3337722.3341824). In Proceedings of the 14th International Conference on the Foundations of Digital Games (FDG ’19). Association for Computing Machinery, New York, NY, USA, Article 48, 1–4. DOI:https://doi.org/10.1145/3337722.3341824
+
+Zenodo https://zenodo.org/record/3232864
