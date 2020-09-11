@@ -47,3 +47,10 @@ Mika Hämäläinen and Khalid Alnajjar. 2019. [Creative contextual dialog adapta
 Khalid Alnajjar and Mika Hämäläinen. 2019. [A creative dialog generator for fallout 4](https://doi.org/10.1145/3337722.3341824). In Proceedings of the 14th International Conference on the Foundations of Digital Games (FDG ’19). Association for Computing Machinery, New York, NY, USA, Article 48, 1–4. DOI:https://doi.org/10.1145/3337722.3341824
 
 Zenodo https://zenodo.org/record/3232864
+
+# Need for NLP solutions for your business?
+
+
+<img src="https://rootroo.com/cropped-logo-01-png/" alt="Rootroo logo" width="128px" height="128px">
+
+My company, [Rootroo offers consulting related to multilingual NLP tasks](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we won't bite.
